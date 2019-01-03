@@ -1,3 +1,3 @@
 # NodeJS
 
-This NodeJS application is a slightly more optimized.
+Authorization administration micro service - for role management.
